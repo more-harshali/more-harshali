@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi 👋, I'm Harshali More
 
-<!--
-**more-harshali/more-harshali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Full Stack Developer (MERN)  
+🌱 Currently learning  React & backend optimization  
+💡 Interested in building scalable web applications  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- JavaScript
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus
+- Improving system design skills
+- Building personal projects 
+- Writing clean and maintainable code
+
+### 📫 Connect with me
+- Email: yourmail@gmail.com
+- LinkedIn: linkedin.com/in/yourname
+
