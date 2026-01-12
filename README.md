@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Harshali More
 
 🎯 Full Stack Developer (MERN)  
-🌱 Currently learning  React & backend optimization  
+🌱 Currently learning React & backend optimization  
 💡 Interested in building scalable web applications  
 
 ### 🛠 Skills
@@ -18,6 +18,8 @@
 - Writing clean and maintainable code
 
 ### 📫 Connect with me
-- Email: yourmail@gmail.com
-- LinkedIn: linkedin.com/in/yourname
+- Email: moreharshali56@gmail.com
+- LinkedIn:https://www.linkedin.com/in/harshali-more-974685351
+
+ 
 
